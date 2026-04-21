@@ -59,8 +59,7 @@ FlowFi answers one question really well: **will you run out of money before your
 
 ## Case Study
 
-Full product thinking, research insights, and design decisions → coming soon
-
+Full product thinking, research insights, and design decisions
 ---
 
 ## Running Locally
